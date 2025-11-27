@@ -45,6 +45,7 @@ namespace MonteCarlo
 
             Console.WriteLine("L'area a destra è " + A1 + " ci sono il " + perc1 + "% dei lanci");
             Console.WriteLine("L'area a sinistra è " + A2 + " ci sono il " + perc2 + "% dei lanci");
+
         }
     }
 }
